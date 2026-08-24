@@ -38,19 +38,19 @@
 - [x] 字符串比较（`==` vs `equals`，与 PHP 的区别）
 - [ ] StringBuilder（高效字符串拼接）
 
-### 6. 流程控制 ⬜
-- [ ] `if / else if / else`
-- [ ] `switch / case`
-- [ ] `for` 循环
-- [ ] `while` 循环
-- [ ] `do...while` 循环
-- [ ] `break` / `continue`
+### 6. 流程控制 ✅（与 PHP 一致）
+- [x] `if / else if / else`
+- [x] `switch / case`
+- [x] `for` 循环
+- [x] `while` 循环
+- [x] `do...while` 循环
+- [x] `break` / `continue`
 
-### 7. 数组 ⬜
-- [ ] 数组定义与初始化
-- [ ] 数组遍历（for、for-each）
-- [ ] 多维数组
-- [ ] 常用操作（排序、查找）
+### 7. 数组 ✅
+- [x] 数组定义与初始化（静态 / 动态）
+- [x] 数组遍历（普通 for、增强 for-each）
+- [x] 数组打印与工具类（`Arrays.toString`、`Arrays.deepToString`、`Arrays.sort`）
+- [ ] 常用操作（二分查找等深入操作）
 
 ### 8. 方法（函数） ⬜
 - [ ] 方法定义语法
