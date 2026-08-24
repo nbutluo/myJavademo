@@ -32,10 +32,10 @@
 - [x] 强制类型转换（`(int) 3.14`）
 - [x] 字符串与数字互转（`Integer.parseInt`、`String.valueOf`）
 
-### 5. 字符串 String ⬜
-- [ ] 字符串定义与拼接
-- [ ] 常用方法（`length`、`substring`、`indexOf`、`replace`、`split`）
-- [ ] 字符串比较（`==` vs `equals`，与 PHP 的区别）
+### 5. 字符串 String ✅
+- [x] 字符串定义与拼接
+- [x] 常用方法（`length`、`substring`、`indexOf`、`replace`、`split`）
+- [x] 字符串比较（`==` vs `equals`，与 PHP 的区别）
 - [ ] StringBuilder（高效字符串拼接）
 
 ### 6. 流程控制 ⬜
