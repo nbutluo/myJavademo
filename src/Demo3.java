@@ -22,8 +22,7 @@ public class Demo3 {
         String s1 = String.valueOf(200);
         System.out.println("s1 ="+ s1);
 
-        Stri
-        ng s2 = Integer.toString(456);
+        String s2 = Integer.toString(456);
         System.out.println("s2 ="+ s2);
 
         int n1 = 11;
